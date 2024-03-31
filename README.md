@@ -13,3 +13,9 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-array/).
 - [[977] Squares of a Sorted Array](array/977.squares-of-a-sorted-array.rs)
 - [[209] Minimum Size Subarray Sum](array/209.minimum-size-subarray-sum.cpp)
 - [[59] Spiral Matrix II](array/59.spiral-matrix-ii.py)
+
+### Linked List
+
+Explanation on [blog](https://alleny.xyz/post/leetcode-linked-list).
+
+- [[203] Remove Linked List Elements](linked_list/203.remove-linked-list-elements.rs)
