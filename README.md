@@ -19,3 +19,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-array/).
 Explanation on [blog](https://alleny.xyz/post/leetcode-linked-list).
 
 - [[203] Remove Linked List Elements](linked_list/203.remove-linked-list-elements.rs)
+- [[707] Design Linked List](linked_list/707.design-linked-list.cpp)
