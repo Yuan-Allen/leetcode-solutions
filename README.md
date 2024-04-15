@@ -25,3 +25,9 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-linked-list).
 - [[19] Remove Nth Node From End of List](linked_list/19.remove-nth-node-from-end-of-list.py)
 - [[160] Intersection of Two Linked Lists](linked_list/160.intersection-of-two-linked-lists.cpp)
 - [[142] Linked List Cycle II](linked_list/142.linked-list-cycle-ii.py)
+
+### Hash Table
+
+Explanation on [blog](https://alleny.xyz/post/leetcode-hash-table).
+
+- [[242] Valid Anagram](hash_table/242.valid-anagram.cpp)
