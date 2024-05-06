@@ -31,3 +31,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-linked-list).
 Explanation on [blog](https://alleny.xyz/post/leetcode-hash-table).
 
 - [[242] Valid Anagram](hash_table/242.valid-anagram.cpp)
+- [[1002] Find Common Characters](hash_table/1002.find-common-characters.py)
