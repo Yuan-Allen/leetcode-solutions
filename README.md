@@ -33,3 +33,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-hash-table).
 - [[242] Valid Anagram](hash_table/242.valid-anagram.cpp)
 - [[1002] Find Common Characters](hash_table/1002.find-common-characters.py)
 - [[349] Intersection of Two Arrays](hash_table/349.intersection-of-two-arrays.rs)
+- [[202] Happy Number](hash_table/202.happy-number.cpp)
