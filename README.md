@@ -34,3 +34,6 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-hash-table).
 - [[1002] Find Common Characters](hash_table/1002.find-common-characters.py)
 - [[349] Intersection of Two Arrays](hash_table/349.intersection-of-two-arrays.rs)
 - [[202] Happy Number](hash_table/202.happy-number.cpp)
+- [[1] Two Sum](hash_table/1.two-sum.py)
+- [[454] 4Sum II](hash_table/454.4-sum-ii.rs)
+- [[383] Ransom Note](hash_table/383.ransom-note.cpp)
