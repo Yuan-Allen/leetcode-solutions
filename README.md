@@ -37,3 +37,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-hash-table).
 - [[1] Two Sum](hash_table/1.two-sum.py)
 - [[454] 4Sum II](hash_table/454.4-sum-ii.rs)
 - [[383] Ransom Note](hash_table/383.ransom-note.cpp)
+- [[15] 3Sum](hash_table/15.3-sum.py)
