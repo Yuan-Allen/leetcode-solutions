@@ -39,3 +39,9 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-hash-table).
 - [[383] Ransom Note](hash_table/383.ransom-note.cpp)
 - [[15] 3Sum](hash_table/15.3-sum.py)
 - [[18] 4Sum](hash_table/18.4-sum.rs)
+
+### String
+
+Explanation on [blog](https://alleny.xyz/post/leetcode-string/)
+
+- [[344] Reverse String](string/344.reverse-string.cpp)
