@@ -42,10 +42,16 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-hash-table).
 
 ### String
 
-Explanation on [blog](https://alleny.xyz/post/leetcode-string/)
+Explanation on [blog](https://alleny.xyz/post/leetcode-string/).
 
 - [[344] Reverse String](string/344.reverse-string.cpp)
 - [[541] Reverse String II](string/541.reverse-string-ii.py)
 - [[151] Reverse Words in a String](string/151.reverse-words-in-a-string.rs)
 - [[28] Find the Index of the First Occurrence in a String](string/28.find-the-index-of-the-first-occurrence-in-a-string.py)
 - [[459] Repeated Substring Pattern](string/459.repeated-substring-pattern.cpp)
+
+### Stack and Queue
+
+Explanation on [blog](https://alleny.xyz/post/leetcode-stack-and-queue/).
+
+- [[232] Implement Queue using Stacks](stack_and_queue/232.implement-queue-using-stacks.cpp)
