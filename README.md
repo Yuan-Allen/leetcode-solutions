@@ -57,3 +57,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-stack-and-queue/).
 - [[232] Implement Queue using Stacks](stack_and_queue/232.implement-queue-using-stacks.cpp)
 - [[225] Implement Stack using Queues](stack_and_queue/225.implement-stack-using-queues.py)
 - [[20] Valid Parentheses](stack_and_queue/20.valid-parentheses.rs)
+- [[1047] Remove All Adjacent Duplicates In String](stack_and_queue/1047.remove-all-adjacent-duplicates-in-string.cpp)
