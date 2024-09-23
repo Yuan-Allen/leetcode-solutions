@@ -59,3 +59,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-stack-and-queue/).
 - [[20] Valid Parentheses](stack_and_queue/20.valid-parentheses.rs)
 - [[1047] Remove All Adjacent Duplicates In String](stack_and_queue/1047.remove-all-adjacent-duplicates-in-string.cpp)
 - [[150] Evaluate Reverse Polish Notation](stack_and_queue/150.evaluate-reverse-polish-notation.py)
+- [[239] Sliding Window Maximum](stack_and_queue/239.sliding-window-maximum.rs)
