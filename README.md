@@ -60,3 +60,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-stack-and-queue/).
 - [[1047] Remove All Adjacent Duplicates In String](stack_and_queue/1047.remove-all-adjacent-duplicates-in-string.cpp)
 - [[150] Evaluate Reverse Polish Notation](stack_and_queue/150.evaluate-reverse-polish-notation.py)
 - [[239] Sliding Window Maximum](stack_and_queue/239.sliding-window-maximum.rs)
+- [[347] Top K Frequent Elements](stack_and_queue/347.top-k-frequent-elements.cpp)
