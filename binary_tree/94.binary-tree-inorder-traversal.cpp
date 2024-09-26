@@ -19,19 +19,31 @@
  */
 class Solution {
  public:
-  void traverse(TreeNode* cur, vector<int>& res) {
+  void recursiveTraverse(TreeNode* cur, vector<int>& res) {
     if (!cur) {
       return;
     }
-    traverse(cur->left, res);
+    recursiveTraverse(cur->left, res);
     res.push_back(cur->val);
-    traverse(cur->right, res);
+    recursiveTraverse(cur->right, res);
   }
 
   vector<int> inorderTraversal(TreeNode* root) {
-    vector<int> res;
-    traverse(root, res);
-    return res;
+    stack<TreeNode*> st;
+    vector<int> result;
+    TreeNode* cur = root;
+    while (cur || !st.empty()) {
+      if (cur) {
+        st.push(cur);
+        cur = cur->left;
+      } else {
+        cur = st.top();
+        st.pop();
+        result.push_back(cur->val);
+        cur = cur->right;
+      }
+    }
+    return result;
   }
 };
 // @lc code=end
