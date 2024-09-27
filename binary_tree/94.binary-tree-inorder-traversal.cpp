@@ -28,7 +28,7 @@ class Solution {
     recursiveTraverse(cur->right, res);
   }
 
-  vector<int> inorderTraversal(TreeNode* root) {
+  vector<int> inorderTraversalNonRecursive(TreeNode* root) {
     stack<TreeNode*> st;
     vector<int> result;
     TreeNode* cur = root;
@@ -41,6 +41,26 @@ class Solution {
         st.pop();
         result.push_back(cur->val);
         cur = cur->right;
+      }
+    }
+    return result;
+  }
+
+  vector<int> inorderTraversal(TreeNode* root) {
+    stack<TreeNode*> st;
+    vector<int> result;
+    if (root) st.push(root);
+    while (!st.empty()) {
+      TreeNode* cur = st.top();
+      st.pop();
+      if (cur) {
+        if (cur->right) st.push(cur->right);
+        st.push(cur);
+        st.push(nullptr);
+        if (cur->left) st.push(cur->left);
+      } else {
+        result.push_back(st.top()->val);
+        st.pop();
       }
     }
     return result;

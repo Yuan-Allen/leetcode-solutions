@@ -28,7 +28,7 @@ class Solution {
     recursiveTraverse(cur->right, res);
   }
 
-  vector<int> preorderTraversal(TreeNode* root) {
+  vector<int> preorderTraversalNonRecursive(TreeNode* root) {
     stack<TreeNode*> st;
     vector<int> result;
     if (!root) return result;
@@ -39,6 +39,26 @@ class Solution {
       result.push_back(cur->val);
       if (cur->right) st.push(cur->right);
       if (cur->left) st.push(cur->left);
+    }
+    return result;
+  }
+
+  vector<int> preorderTraversal(TreeNode* root) {
+    stack<TreeNode*> st;
+    vector<int> result;
+    if (root) st.push(root);
+    while (!st.empty()) {
+      TreeNode* cur = st.top();
+      st.pop();
+      if (cur) {
+        if (cur->right) st.push(cur->right);
+        if (cur->left) st.push(cur->left);
+        st.push(cur);
+        st.push(nullptr);
+      } else {
+        result.push_back(st.top()->val);
+        st.pop();
+      }
     }
     return result;
   }

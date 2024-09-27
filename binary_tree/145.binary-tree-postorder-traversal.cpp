@@ -28,7 +28,7 @@ class Solution {
     res.push_back(cur->val);
   }
 
-  vector<int> postorderTraversal(TreeNode* root) {
+  vector<int> postorderTraversalNonRecursive(TreeNode* root) {
     stack<TreeNode*> st;
     vector<int> result;
     if (!root) return result;
@@ -41,6 +41,26 @@ class Solution {
       if (cur->right) st.push(cur->right);
     }
     reverse(result.begin(), result.end());
+    return result;
+  }
+
+  vector<int> postorderTraversal(TreeNode* root) {
+    stack<TreeNode*> st;
+    vector<int> result;
+    if (root) st.push(root);
+    while (!st.empty()) {
+      TreeNode* cur = st.top();
+      st.pop();
+      if (cur) {
+        st.push(cur);
+        st.push(nullptr);
+        if (cur->right) st.push(cur->right);
+        if (cur->left) st.push(cur->left);
+      } else {
+        result.push_back(st.top()->val);
+        st.pop();
+      }
+    }
     return result;
   }
 };
