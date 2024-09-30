@@ -70,3 +70,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[145] Binary Tree Postorder Traversal](binary_tree/145.binary-tree-postorder-traversal.cpp)
 - [[94] Binary Tree Inorder Traversal](binary_tree/94.binary-tree-inorder-traversal.cpp)
 - [[102] Binary Tree Level Order Traversal](binary_tree/102.binary-tree-level-order-traversal.cpp)
+- [[226] Invert Binary Tree](binary_tree/226.invert-binary-tree.cpp)
