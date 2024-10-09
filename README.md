@@ -72,3 +72,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[102] Binary Tree Level Order Traversal](binary_tree/102.binary-tree-level-order-traversal.cpp)
 - [[226] Invert Binary Tree](binary_tree/226.invert-binary-tree.cpp)
 - [[101] Symmetric Tree](binary_tree/101.symmetric-tree.cpp)
+- [[104] Maximum Depth of Binary Tree](binary_tree/104.maximum-depth-of-binary-tree.cpp)
