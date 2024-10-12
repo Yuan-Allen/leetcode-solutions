@@ -75,3 +75,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[104] Maximum Depth of Binary Tree](binary_tree/104.maximum-depth-of-binary-tree.cpp)
 - [[111] Minimum Depth of Binary Tree](binary_tree/111.minimum-depth-of-binary-tree.cpp)
 - [[222] Count Complete Tree Nodes](binary_tree/222.count-complete-tree-nodes.cpp)
+- [[110] Balanced Binary Tree](binary_tree/110.balanced-binary-tree.cpp)
