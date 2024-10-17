@@ -79,3 +79,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[257] Binary Tree Paths](binary_tree/257.binary-tree-paths.cpp)
 - [[404] Sum of Left Leaves](binary_tree/404.sum-of-left-leaves.cpp)
 - [[513] Find Bottom Left Tree Value](binary_tree/513.find-bottom-left-tree-value.cpp)
+- [[112] Path Sum](binary_tree/112.path-sum.cpp)
