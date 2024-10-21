@@ -81,3 +81,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[513] Find Bottom Left Tree Value](binary_tree/513.find-bottom-left-tree-value.cpp)
 - [[112] Path Sum](binary_tree/112.path-sum.cpp)
 - [[106] Construct Binary Tree from Inorder and Postorder Traversal](binary_tree/106.construct-binary-tree-from-inorder-and-postorder-traversal.cpp)
+- [[654] Maximum Binary Tree](binary_tree/654.maximum-binary-tree.cpp)
