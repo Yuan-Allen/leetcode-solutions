@@ -82,3 +82,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[112] Path Sum](binary_tree/112.path-sum.cpp)
 - [[106] Construct Binary Tree from Inorder and Postorder Traversal](binary_tree/106.construct-binary-tree-from-inorder-and-postorder-traversal.cpp)
 - [[654] Maximum Binary Tree](binary_tree/654.maximum-binary-tree.cpp)
+- [[617] Merge Two Binary Trees](binary_tree/617.merge-two-binary-trees.cpp)
