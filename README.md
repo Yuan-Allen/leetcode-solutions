@@ -84,3 +84,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[654] Maximum Binary Tree](binary_tree/654.maximum-binary-tree.cpp)
 - [[617] Merge Two Binary Trees](binary_tree/617.merge-two-binary-trees.cpp)
 - [[700] Search in a Binary Search Tree](binary_tree/700.search-in-a-binary-search-tree.cpp)
+- [[98] Validate Binary Search Tree](binary_tree/98.validate-binary-search-tree.cpp)
