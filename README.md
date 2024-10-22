@@ -86,3 +86,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[700] Search in a Binary Search Tree](binary_tree/700.search-in-a-binary-search-tree.cpp)
 - [[98] Validate Binary Search Tree](binary_tree/98.validate-binary-search-tree.cpp)
 - [[530] Minimum Absolute Difference in BST](binary_tree/530.minimum-absolute-difference-in-bst.cpp)
+- [[501] Find Mode in Binary Search Tree](binary_tree/501.find-mode-in-binary-search-tree.cpp)
