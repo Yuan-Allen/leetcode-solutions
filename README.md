@@ -90,3 +90,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[236] Lowest Common Ancestor of a Binary Tree](binary_tree/236.lowest-common-ancestor-of-a-binary-tree.cpp)
 - [[235] Lowest Common Ancestor of a Binary Search Tree](binary_tree/235.lowest-common-ancestor-of-a-binary-search-tree.cpp)
 - [[701] Insert into a Binary Search Tree](binary_tree/701.insert-into-a-binary-search-tree.cpp)
+- [[450] Delete Node in a BST](binary_tree/450.delete-node-in-a-bst.cpp)
