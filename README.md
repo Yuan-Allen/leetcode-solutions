@@ -92,3 +92,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[701] Insert into a Binary Search Tree](binary_tree/701.insert-into-a-binary-search-tree.cpp)
 - [[450] Delete Node in a BST](binary_tree/450.delete-node-in-a-bst.cpp)
 - [[669] Trim a Binary Search Tree](binary_tree/669.trim-a-binary-search-tree.cpp)
+- [[108] Convert Sorted Array to Binary Search Tree](binary_tree/108.convert-sorted-array-to-binary-search-tree.cpp)
