@@ -94,3 +94,9 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[669] Trim a Binary Search Tree](binary_tree/669.trim-a-binary-search-tree.cpp)
 - [[108] Convert Sorted Array to Binary Search Tree](binary_tree/108.convert-sorted-array-to-binary-search-tree.cpp)
 - [[538] Convert BST to Greater Tree](binary_tree/538.convert-bst-to-greater-tree.cpp)
+
+### Graph
+
+Explanation on [blog](https://alleny.xyz/post/leetcode-graph/).
+
+- [[200] Number of Islands](graph/200.number-of-islands.cpp)
