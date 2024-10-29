@@ -100,3 +100,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 Explanation on [blog](https://alleny.xyz/post/leetcode-graph/).
 
 - [[200] Number of Islands](graph/200.number-of-islands.cpp)
+- [[994] Rotting Oranges](graph/994.rotting-oranges.cpp)
