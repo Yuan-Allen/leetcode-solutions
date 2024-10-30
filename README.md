@@ -102,3 +102,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-graph/).
 - [[200] Number of Islands](graph/200.number-of-islands.cpp)
 - [[994] Rotting Oranges](graph/994.rotting-oranges.cpp)
 - [[207] Course Schedule](graph/207.course-schedule.cpp)
+- [[208] Implement Trie (Prefix Tree)](graph/208.implement-trie-prefix-tree.cpp)
