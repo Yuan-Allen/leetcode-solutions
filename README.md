@@ -108,4 +108,5 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-graph/).
 
 Explanation on [blog](https://alleny.xyz/post/leetcode-backtracking/).
 
-- [[46] Permutations](backtraking/46.permutations.cpp)
+- [[46] Permutations](backtracking/46.permutations.cpp)
+- [[78] Subsets](backtracking/78.subsets.cpp)
