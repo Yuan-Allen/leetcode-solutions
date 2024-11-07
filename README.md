@@ -112,3 +112,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-backtracking/).
 - [[78] Subsets](backtracking/78.subsets.cpp)
 - [[17] Letter Combinations of a Phone Number](backtracking/17.letter-combinations-of-a-phone-number.cpp)
 - [[39] Combination Sum](backtracking/39.combination-sum.cpp)
+- [[22] Generate Parentheses](backtracking/22.generate-parentheses.cpp)
