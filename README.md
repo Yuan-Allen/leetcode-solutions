@@ -114,3 +114,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-backtracking/).
 - [[39] Combination Sum](backtracking/39.combination-sum.cpp)
 - [[22] Generate Parentheses](backtracking/22.generate-parentheses.cpp)
 - [[79] Word Search](backtracking/79.word-search.cpp)
+- [[131] Palindrome Partitioning](backtracking/131.palindrome-partitioning.cpp)
