@@ -115,3 +115,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-backtracking/).
 - [[22] Generate Parentheses](backtracking/22.generate-parentheses.cpp)
 - [[79] Word Search](backtracking/79.word-search.cpp)
 - [[131] Palindrome Partitioning](backtracking/131.palindrome-partitioning.cpp)
+- [[51] N-Queens](backtracking/51.n-queens.cpp)
