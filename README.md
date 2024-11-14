@@ -122,3 +122,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-backtracking/).
 Explanation on [blog](https://alleny.xyz/post/leetcode-binary-search/).
 
 - [[35] Search Insert Position](binary_search/35.search-insert-position.cpp)
+- [[74] Search a 2D Matrix](binary_search/74.search-a-2-d-matrix.cpp)
