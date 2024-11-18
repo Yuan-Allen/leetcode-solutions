@@ -123,3 +123,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-search/).
 
 - [[35] Search Insert Position](binary_search/35.search-insert-position.cpp)
 - [[74] Search a 2D Matrix](binary_search/74.search-a-2-d-matrix.cpp)
+- [[34] Find First and Last Position of Element in Sorted Array](binary_search/34.find-first-and-last-position-of-element-in-sorted-array.cpp)
