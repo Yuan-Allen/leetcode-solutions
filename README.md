@@ -126,3 +126,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-search/).
 - [[34] Find First and Last Position of Element in Sorted Array](binary_search/34.find-first-and-last-position-of-element-in-sorted-array.cpp)
 - [[33] Search in Rotated Sorted Array](binary_search/33.search-in-rotated-sorted-array.cpp)
 - [[153] Find Minimum in Rotated Sorted Array](binary_search/153.find-minimum-in-rotated-sorted-array.cpp)
+- [[4] Median of Two Sorted Arrays](binary_search/4.median-of-two-sorted-arrays.cpp)
