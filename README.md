@@ -127,3 +127,9 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-search/).
 - [[33] Search in Rotated Sorted Array](binary_search/33.search-in-rotated-sorted-array.cpp)
 - [[153] Find Minimum in Rotated Sorted Array](binary_search/153.find-minimum-in-rotated-sorted-array.cpp)
 - [[4] Median of Two Sorted Arrays](binary_search/4.median-of-two-sorted-arrays.cpp)
+
+### Greedy Algorithm
+
+Explanation on [blog](https://alleny.xyz/post/leetcode-greedy-algorithm/).
+
+- [[121] Best Time to Buy and Sell Stock](greedy_algorithm/121.best-time-to-buy-and-sell-stock.cpp)
