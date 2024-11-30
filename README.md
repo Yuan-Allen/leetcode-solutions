@@ -135,3 +135,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-greedy/).
 - [[121] Best Time to Buy and Sell Stock](greedy/121.best-time-to-buy-and-sell-stock.cpp)
 - [[55] Jump Game](greedy/55.jump-game.cpp)
 - [[45] Jump Game II](greedy/45.jump-game-ii.cpp)
+- [[763] Partition Labels](greedy/763.partition-labels.cpp)
