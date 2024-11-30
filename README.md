@@ -142,3 +142,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-greedy/).
 Explanation on [blog](https://alleny.xyz/post/leetcode-dynamic-programming/).
 
 - [[70] Climbing Stairs](dynamic_programming/70.climbing-stairs.cpp)
+- [[118] Pascal's Triangle](dynamic_programming/118.pascals-triangle.cpp)
