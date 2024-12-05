@@ -146,3 +146,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-dynamic-programming/).
 - [[198] House Robber](dynamic_programming/198.house-robber.cpp)
 - [[279] Perfect Squares](dynamic_programming/279.perfect-squares.cpp)
 - [[322] Coin Change](dynamic_programming/322.coin-change.cpp)
+- [[139] Word Break](dynamic_programming/139.word-break.cpp)
