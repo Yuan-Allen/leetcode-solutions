@@ -149,3 +149,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-dynamic-programming/).
 - [[139] Word Break](dynamic_programming/139.word-break.cpp)
 - [[300] Longest Increasing Subsequence](dynamic_programming/300.longest-increasing-subsequence.cpp)
 - [[152] Maximum Product Subarray](dynamic_programming/152.maximum-product-subarray.cpp)
+- [[416] Partition Equal Subset Sum](dynamic_programming/416.partition-equal-subset-sum.cpp)
