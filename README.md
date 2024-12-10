@@ -151,3 +151,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-dynamic-programming/).
 - [[152] Maximum Product Subarray](dynamic_programming/152.maximum-product-subarray.cpp)
 - [[416] Partition Equal Subset Sum](dynamic_programming/416.partition-equal-subset-sum.cpp)
 - [[32] Longest Valid Parentheses](dynamic_programming/32.longest-valid-parentheses.cpp)
+- [[62] Unique Paths](dynamic_programming/62.unique-paths.cpp)
