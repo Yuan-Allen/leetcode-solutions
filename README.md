@@ -154,3 +154,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-dynamic-programming/).
 - [[62] Unique Paths](dynamic_programming/62.unique-paths.cpp)
 - [[64] Minimum Path Sum](dynamic_programming/64.minimum-path-sum.cpp)
 - [[5] Longest Palindromic Substring](dynamic_programming/5.longest-palindromic-substring.cpp)
+- [[1143] Longest Common Subsequence](dynamic_programming/1143.longest-common-subsequence.cpp)
