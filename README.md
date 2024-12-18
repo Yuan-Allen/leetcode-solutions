@@ -163,3 +163,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-dynamic-programming/).
 Explanation on [blog](https://alleny.xyz/post/leetcode-misc/).
 
 - [[136] Single Number](misc/136.single-number.cpp)
+- [[169] Majority Element](misc/169.majority-element.cpp)
