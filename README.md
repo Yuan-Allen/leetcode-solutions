@@ -156,3 +156,10 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-dynamic-programming/).
 - [[5] Longest Palindromic Substring](dynamic_programming/5.longest-palindromic-substring.cpp)
 - [[1143] Longest Common Subsequence](dynamic_programming/1143.longest-common-subsequence.cpp)
 - [[72] Edit Distance](dynamic_programming/72.edit-distance.cpp)
+
+
+## Misc
+
+Explanation on [blog](https://alleny.xyz/post/leetcode-misc/).
+
+- [[136] Single Number](misc/136.single-number.cpp)
