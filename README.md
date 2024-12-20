@@ -165,3 +165,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-misc/).
 - [[136] Single Number](misc/136.single-number.cpp)
 - [[169] Majority Element](misc/169.majority-element.cpp)
 - [[75] Sort Colors](misc/75.sort-colors.cpp)
+- [[31] Next Permutation](misc/31.next-permutation.cpp)
