@@ -166,3 +166,4 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-misc/).
 - [[169] Majority Element](misc/169.majority-element.cpp)
 - [[75] Sort Colors](misc/75.sort-colors.cpp)
 - [[31] Next Permutation](misc/31.next-permutation.cpp)
+- [[287] Find the Duplicate Number](misc/287.find-the-duplicate-number.cpp)
