@@ -40,6 +40,10 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-hash-table).
 - [[15] 3Sum](hash_table/15.3-sum.py)
 - [[18] 4Sum](hash_table/18.4-sum.rs)
 
+Supplement:
+
+- [[49] Group Anagrams](hash_table/49.group-anagrams.cpp)
+
 ### String
 
 Explanation on [blog](https://alleny.xyz/post/leetcode-string/).
