@@ -43,6 +43,7 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-hash-table).
 Supplement:
 
 - [[49] Group Anagrams](hash_table/49.group-anagrams.cpp)
+- [[128] Longest Consecutive Sequence](hash_table/128.longest-consecutive-sequence.cpp)
 
 ### String
 
