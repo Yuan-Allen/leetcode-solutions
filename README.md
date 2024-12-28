@@ -61,6 +61,10 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-string/).
 - [[28] Find the Index of the First Occurrence in a String](string/28.find-the-index-of-the-first-occurrence-in-a-string.py)
 - [[459] Repeated Substring Pattern](string/459.repeated-substring-pattern.cpp)
 
+Supplement:
+
+- [[3] Longest Substring Without Repeating Characters](string/3.longest-substring-without-repeating-characters.cpp)
+
 ### Stack and Queue
 
 Explanation on [blog](https://alleny.xyz/post/leetcode-stack-and-queue/).
