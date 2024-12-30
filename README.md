@@ -155,6 +155,10 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-greedy/).
 - [[45] Jump Game II](greedy/45.jump-game-ii.cpp)
 - [[763] Partition Labels](greedy/763.partition-labels.cpp)
 
+Supplement:
+
+- [[53] Maximum Subarray](greedy/53.maximum-subarray.cpp)
+
 ### Dynamic Programming
 
 Explanation on [blog](https://alleny.xyz/post/leetcode-dynamic-programming/).
