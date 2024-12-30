@@ -158,6 +158,7 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-greedy/).
 Supplement:
 
 - [[53] Maximum Subarray](greedy/53.maximum-subarray.cpp)
+- [[56] Merge Intervals](greedy/56.merge-intervals.cpp)
 
 ### Dynamic Programming
 
