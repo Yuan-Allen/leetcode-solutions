@@ -21,6 +21,7 @@ Supplement:
 - [[42] Trapping Rain Water](array/42.trapping-rain-water.cpp)
 - [[189] Rotate Array](array/189.rotate-array.cpp)
 - [[238] Product of Array Except Self](array/238.product-of-array-except-self.cpp)
+- [[41] First Missing Positive](array/41.first-missing-positive.cpp)
 
 ### Linked List
 
