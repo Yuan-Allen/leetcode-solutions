@@ -22,6 +22,7 @@ Supplement:
 - [[189] Rotate Array](array/189.rotate-array.cpp)
 - [[238] Product of Array Except Self](array/238.product-of-array-except-self.cpp)
 - [[41] First Missing Positive](array/41.first-missing-positive.cpp)
+- [[73] Set Matrix Zeroes](array/73.set-matrix-zeroes.cpp)
 
 ### Linked List
 
