@@ -24,6 +24,7 @@ Supplement:
 - [[41] First Missing Positive](array/41.first-missing-positive.cpp)
 - [[73] Set Matrix Zeroes](array/73.set-matrix-zeroes.cpp)
 - [[54] Spiral Matrix](array/54.spiral-matrix.cpp)
+- [[48] Rotate Image](array/48.rotate-image.cpp)
 
 ### Linked List
 
