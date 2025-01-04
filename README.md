@@ -42,6 +42,7 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-linked-list).
 Supplement:
 
 - [[234] Palindrome Linked List](linked_list/234.palindrome-linked-list.cpp)
+- [[141] Linked List Cycle](linked_list/141.linked-list-cycle.cpp)
 
 ### Hash Table
 
