@@ -44,6 +44,7 @@ Supplement:
 - [[234] Palindrome Linked List](linked_list/234.palindrome-linked-list.cpp)
 - [[141] Linked List Cycle](linked_list/141.linked-list-cycle.cpp)
 - [[21] Merge Two Sorted Lists](linked_list/21.merge-two-sorted-lists.cpp)
+- [[2] Add Two Numbers](linked_list/2.add-two-numbers.cpp)
 
 ### Hash Table
 
