@@ -39,6 +39,10 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-linked-list).
 - [[160] Intersection of Two Linked Lists](linked_list/160.intersection-of-two-linked-lists.cpp)
 - [[142] Linked List Cycle II](linked_list/142.linked-list-cycle-ii.py)
 
+Supplement:
+
+- [[234] Palindrome Linked List](linked_list/234.palindrome-linked-list.cpp)
+
 ### Hash Table
 
 Explanation on [blog](https://alleny.xyz/post/leetcode-hash-table).
