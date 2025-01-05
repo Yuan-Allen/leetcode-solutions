@@ -47,6 +47,7 @@ Supplement:
 - [[2] Add Two Numbers](linked_list/2.add-two-numbers.cpp)
 - [[25] Reverse Nodes in k-Group](linked_list/25.reverse-nodes-in-k-group.cpp)
 - [[138] Copy List with Random Pointer](linked_list/138.copy-list-with-random-pointer.cpp)
+- [[148] Sort List](linked_list/148.sort-list.cpp)
 
 ### Hash Table
 
