@@ -132,6 +132,10 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 - [[108] Convert Sorted Array to Binary Search Tree](binary_tree/108.convert-sorted-array-to-binary-search-tree.cpp)
 - [[538] Convert BST to Greater Tree](binary_tree/538.convert-bst-to-greater-tree.cpp)
 
+Supplement:
+
+- [[543] Diameter of Binary Tree](binary_tree/543.diameter-of-binary-tree.cpp)
+
 ### Graph
 
 Explanation on [blog](https://alleny.xyz/post/leetcode-graph/).
