@@ -49,6 +49,7 @@ Supplement:
 - [[138] Copy List with Random Pointer](linked_list/138.copy-list-with-random-pointer.cpp)
 - [[148] Sort List](linked_list/148.sort-list.cpp)
 - [[23] Merge k Sorted Lists](linked_list/23.merge-k-sorted-lists.cpp)
+- [[146] LRU Cache](linked_list/146.lru-cache.cpp)
 
 ### Hash Table
 
