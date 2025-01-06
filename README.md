@@ -137,6 +137,7 @@ Supplement:
 - [[543] Diameter of Binary Tree](binary_tree/543.diameter-of-binary-tree.cpp)
 - [[230] Kth Smallest Element in a BST](binary_tree/230.kth-smallest-element-in-a-bst.cpp)
 - [[199] Binary Tree Right Side View](binary_tree/199.binary-tree-right-side-view.cpp)
+- [[114] Flatten Binary Tree to Linked List](binary_tree/114.flatten-binary-tree-to-linked-list.cpp)
 
 ### Graph
 
