@@ -135,6 +135,7 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
 Supplement:
 
 - [[543] Diameter of Binary Tree](binary_tree/543.diameter-of-binary-tree.cpp)
+- [[230] Kth Smallest Element in a BST](binary_tree/230.kth-smallest-element-in-a-bst.cpp)
 
 ### Graph
 
