@@ -99,6 +99,10 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-stack-and-queue/).
 - [[239] Sliding Window Maximum](stack_and_queue/239.sliding-window-maximum.rs)
 - [[347] Top K Frequent Elements](stack_and_queue/347.top-k-frequent-elements.cpp)
 
+Supplement:
+
+- [[155] Min Stack](stack_and_queue/155.min-stack.cpp)
+
 ### Binary tree
 
 Explanation on [blog](https://alleny.xyz/post/leetcode-binary-tree/).
