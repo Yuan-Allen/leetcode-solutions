@@ -102,6 +102,7 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-stack-and-queue/).
 Supplement:
 
 - [[155] Min Stack](stack_and_queue/155.min-stack.cpp)
+- [[394] Decode String](stack_and_queue/394.decode-string.cpp)
 
 ### Binary tree
 
