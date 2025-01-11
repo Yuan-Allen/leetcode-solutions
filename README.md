@@ -103,6 +103,7 @@ Supplement:
 
 - [[155] Min Stack](stack_and_queue/155.min-stack.cpp)
 - [[394] Decode String](stack_and_queue/394.decode-string.cpp)
+- [[739] Daily Temperatures](stack_and_queue/739.daily-temperatures.cpp)
 
 ### Binary tree
 
