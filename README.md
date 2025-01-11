@@ -104,6 +104,7 @@ Supplement:
 - [[155] Min Stack](stack_and_queue/155.min-stack.cpp)
 - [[394] Decode String](stack_and_queue/394.decode-string.cpp)
 - [[739] Daily Temperatures](stack_and_queue/739.daily-temperatures.cpp)
+- [[84] Largest Rectangle in Histogram](stack_and_queue/84.largest-rectangle-in-histogram.cpp)
 
 ### Binary tree
 
