@@ -105,6 +105,7 @@ Supplement:
 - [[394] Decode String](stack_and_queue/394.decode-string.cpp)
 - [[739] Daily Temperatures](stack_and_queue/739.daily-temperatures.cpp)
 - [[84] Largest Rectangle in Histogram](stack_and_queue/84.largest-rectangle-in-histogram.cpp)
+- [[215] Kth Largest Element in an Array](stack_and_queue/215.kth-largest-element-in-an-array.cpp)
 
 ### Binary tree
 
