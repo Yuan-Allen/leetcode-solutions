@@ -106,6 +106,7 @@ Supplement:
 - [[739] Daily Temperatures](stack_and_queue/739.daily-temperatures.cpp)
 - [[84] Largest Rectangle in Histogram](stack_and_queue/84.largest-rectangle-in-histogram.cpp)
 - [[215] Kth Largest Element in an Array](stack_and_queue/215.kth-largest-element-in-an-array.cpp)
+- [[295] Find Median from Data Stream](stack_and_queue/295.find-median-from-data-stream.cpp)
 
 ### Binary tree
 
