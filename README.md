@@ -28,6 +28,7 @@ Supplement:
 - [[240] Search a 2D Matrix II](array/240.search-a-2-d-matrix-ii.cpp)
 - [[88] Merge Sorted Array](array/88.merge-sorted-array.cpp)
 - [[26] Remove Duplicates from Sorted Array](array/26.remove-duplicates-from-sorted-array.cpp)
+- [[80] Remove Duplicates from Sorted Array II](array/80.remove-duplicates-from-sorted-array-ii.cpp)
 
 ### Linked List
 
