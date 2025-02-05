@@ -200,6 +200,7 @@ Supplement:
 
 - [[53] Maximum Subarray](greedy/53.maximum-subarray.cpp)
 - [[56] Merge Intervals](greedy/56.merge-intervals.cpp)
+- [[122] Best Time to Buy and Sell Stock II](greedy/122.best-time-to-buy-and-sell-stock-ii.cpp)
 
 ### Dynamic Programming
 
