@@ -29,6 +29,7 @@ Supplement:
 - [[88] Merge Sorted Array](array/88.merge-sorted-array.cpp)
 - [[26] Remove Duplicates from Sorted Array](array/26.remove-duplicates-from-sorted-array.cpp)
 - [[80] Remove Duplicates from Sorted Array II](array/80.remove-duplicates-from-sorted-array-ii.cpp)
+- [[274] H-Index](array/274.h-index.cpp)
 
 ### Linked List
 
