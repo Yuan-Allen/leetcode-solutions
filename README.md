@@ -30,6 +30,7 @@ Supplement:
 - [[26] Remove Duplicates from Sorted Array](array/26.remove-duplicates-from-sorted-array.cpp)
 - [[80] Remove Duplicates from Sorted Array II](array/80.remove-duplicates-from-sorted-array-ii.cpp)
 - [[274] H-Index](array/274.h-index.cpp)
+- [[380] Insert Delete GetRandom O(1)](array/380.insert-delete-get-random-o-1.cpp)
 
 ### Linked List
 
