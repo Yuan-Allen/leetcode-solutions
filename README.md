@@ -33,6 +33,7 @@ Supplement:
 - [[380] Insert Delete GetRandom O(1)](array/380.insert-delete-get-random-o-1.cpp)
 - [[134] Gas Station](array/134.gas-station.cpp)
 - [[135] Candy](array/135.candy.cpp)
+- [[13] Roman to Integer](array/13.roman-to-integer.cpp)
 
 ### Linked List
 
