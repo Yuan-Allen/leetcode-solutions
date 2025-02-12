@@ -34,6 +34,7 @@ Supplement:
 - [[134] Gas Station](array/134.gas-station.cpp)
 - [[135] Candy](array/135.candy.cpp)
 - [[13] Roman to Integer](array/13.roman-to-integer.cpp)
+- [[12] Integer to Roman](array/12.integer-to-roman.cpp)
 
 ### Linked List
 
