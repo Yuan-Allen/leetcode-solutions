@@ -35,6 +35,7 @@ Supplement:
 - [[135] Candy](array/135.candy.cpp)
 - [[13] Roman to Integer](array/13.roman-to-integer.cpp)
 - [[12] Integer to Roman](array/12.integer-to-roman.cpp)
+- [[58] Length of Last Word](array/58.length-of-last-word.cpp)
 
 ### Linked List
 
