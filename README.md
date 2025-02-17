@@ -98,6 +98,7 @@ Supplement:
 - [[58] Length of Last Word](string/58.length-of-last-word.cpp)
 - [[14] Longest Common Prefix](string/14.longest-common-prefix.cpp)
 - [[6] Zigzag Conversion](string/6.zigzag-conversion.cpp)
+- [[68] Text Justification](string/68.text-justification.cpp)
 
 ### Stack and Queue
 
