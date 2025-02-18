@@ -99,6 +99,7 @@ Supplement:
 - [[14] Longest Common Prefix](string/14.longest-common-prefix.cpp)
 - [[6] Zigzag Conversion](string/6.zigzag-conversion.cpp)
 - [[68] Text Justification](string/68.text-justification.cpp)
+- [[125] Valid Palindrome](string/125.valid-palindrome.cpp)
 
 ### Stack and Queue
 
