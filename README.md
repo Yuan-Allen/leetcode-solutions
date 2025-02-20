@@ -33,6 +33,7 @@ Supplement:
 - [[380] Insert Delete GetRandom O(1)](array/380.insert-delete-get-random-o-1.cpp)
 - [[134] Gas Station](array/134.gas-station.cpp)
 - [[135] Candy](array/135.candy.cpp)
+- [[167] Two Sum II - Input Array Is Sorted](array/167.two-sum-ii-input-array-is-sorted.cpp)
 
 ### Linked List
 
