@@ -102,6 +102,7 @@ Supplement:
 - [[68] Text Justification](string/68.text-justification.cpp)
 - [[125] Valid Palindrome](string/125.valid-palindrome.cpp)
 - [[392] Is Subsequence](string/392.is-subsequence.cpp)
+- [[30] Substring with Concatenation of All Words](string/30.substring-with-concatenation-of-all-words.cpp)
 
 ### Stack and Queue
 
