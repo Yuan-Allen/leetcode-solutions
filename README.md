@@ -190,6 +190,10 @@ Explanation on [blog](https://alleny.xyz/post/leetcode-backtracking/).
 - [[131] Palindrome Partitioning](backtracking/131.palindrome-partitioning.cpp)
 - [[51] N-Queens](backtracking/51.n-queens.cpp)
 
+Supplement:
+
+- [[47] Permutations II](backtracking/47.permutations-ii.cpp)
+
 ### Binary Search
 
 Explanation on [blog](https://alleny.xyz/post/leetcode-binary-search/).
