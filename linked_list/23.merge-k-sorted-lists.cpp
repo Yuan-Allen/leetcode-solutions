@@ -18,15 +18,13 @@
 class Solution {
   public:
     ListNode *mergeKLists(vector<ListNode *> &lists) {
-        struct test {
-            bool operator()(const ListNode *a, const ListNode *b) {
-                return a->val > b->val;
-            }
+        auto cmp = [](const ListNode *a, const ListNode *b) {
+            return a->val > b->val;
         };
 
         ListNode *dummy = new ListNode(0);
         ListNode *pre = dummy;
-        priority_queue<ListNode *, vector<ListNode *>, test> q;
+        priority_queue<ListNode *, vector<ListNode *>, decltype(cmp)> q;
 
         for (ListNode *head : lists) {
             if (head) {
