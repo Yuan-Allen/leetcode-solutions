@@ -35,6 +35,7 @@ Supplement:
 - [[135] Candy](array/135.candy.cpp)
 - [[167] Two Sum II - Input Array Is Sorted](array/167.two-sum-ii-input-array-is-sorted.cpp)
 - [[36] Valid Sudoku](array/36.valid-sudoku.cpp)
+- [[289] Game of Life](array/289.game-of-life.cpp)
 
 ### Linked List
 
