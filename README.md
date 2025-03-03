@@ -82,6 +82,7 @@ Supplement:
 - [[438] Find All Anagrams in a String](hash_table/438.find-all-anagrams-in-a-string.cpp)
 - [[560] Subarray Sum Equals K](hash_table/560.subarray-sum-equals-k.cpp)
 - [[76] Minimum Window Substring](hash_table/76.minimum-window-substring.cpp)
+- [[205] Isomorphic Strings](hash_table/205.isomorphic-strings.cpp)
 
 ### String
 
